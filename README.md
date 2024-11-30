@@ -93,7 +93,6 @@ This project is licensed under the MIT License.
 
 ## **Acknowledgments**
 Special thanks to:
-- Power BI tutorials for inspiring the exploratory analysis.
 - The open-source data science community for providing excellent resources.
 
 ---
