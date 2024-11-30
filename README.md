@@ -96,4 +96,4 @@ Special thanks to:
 - The open-source data science community for providing excellent resources.
 
 ---
-https://github.com/Rajarya2003/Credit_Card_Customer_Segmentation
+[https://github.com/Rajarya2003/Credit_Card_Customer_Segmentation]
