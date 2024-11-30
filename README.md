@@ -1,3 +1,4 @@
+![Customer Segmentation](credit_card_segmentation.png)
 
 
 
