@@ -1,4 +1,4 @@
-credit_card_segmentation.png
+
 
 
 # **Customer Segmentation of Credit Card Users**
