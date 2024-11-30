@@ -1,4 +1,4 @@
-![Customer Segmentation](credit_card_segmentation.png)
+https://github.com/Rajarya2003/Credit_Card_Customer_Segmentation/raw/refs/heads/main/Credit_card.webp
 
 
 
