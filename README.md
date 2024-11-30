@@ -1,4 +1,4 @@
-![Customer Segmentation](Credit_card.webp)
+
 <img src="Credit_card.webp" alt="Customer Segmentation" width="400"/>
 
 
