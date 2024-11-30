@@ -1,4 +1,4 @@
-C:\Users\HP\Downloads
+
 
 # **Customer Segmentation of Credit Card Users**
 
